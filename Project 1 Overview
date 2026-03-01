@@ -1,0 +1,26 @@
+Project Overview: E-Commerce Product Recommendation Network Analysis
+
+This project analyzes a product co-interaction network
+built from the Retailrocket e-commerce dataset, which
+contains real user behavioral data (views, add-to-carts,
+and purchases) collected from a live e-commerce
+website. Products serve as nodes in the network,
+and edges connect two products when they are
+frequently interacted with by the same users, forming
+a product recommendation network. Each product carries
+categorical attributes derived from the site's category
+hierarchy, including product category, category depth (top-level
+vs. niche), and dominant interaction type (view-heavy
+vs. purchase-heavy). The project computes both degree
+centrality and eigenvector centrality for every product
+node, then compares these centrality distributions across
+categorical groups using statistical tests such as
+the Kruskal-Wallis test and post-hoc pairwise comparisons.
+The analysis aims to reveal whether certain product
+categories occupy more central positions in the recommendation
+network — for example, whether broadly popular categories
+act as hubs connecting niche subcategories, or whether
+purchase-driven products exhibit higher eigenvector centrality
+than browse-only products. The project is implemented
+in Python using NetworkX, pandas, and scipy,
+delivered as a Jupyter Notebook, and hosted on GitHub.
