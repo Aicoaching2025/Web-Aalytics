@@ -1,0 +1,16 @@
+{
+  "congress": 118,
+  "n_nodes": 538,
+  "n_edges": 25127,
+  "density": 0.173946,
+  "is_connected": false,
+  "party_mean_centrality": {
+    "Democrat": 0.148,
+    "Independent": 0.0484,
+    "Republican": 0.1997
+  },
+  "chamber_mean_centrality": {
+    "House of Representatives": 0.1961,
+    "Senate": 0.0768
+  }
+}

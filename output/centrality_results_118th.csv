@@ -1,0 +1,539 @@
+bioguideId,name,party,state,chamber,region,degree,weighted_degree,degree_centrality
+M001245,"Menefee, Christian D.",Democrat,Texas,House of Representatives,Unknown,0,0,0.0
+C001120,"Crenshaw, Dan",Republican,Texas,House of Representatives,Unknown,178,551,0.33147113594040967
+L000566,"Latta, Robert E.",Republican,Ohio,House of Representatives,Unknown,159,343,0.29608938547486036
+C001118,"Cline, Ben",Republican,Virginia,House of Representatives,Unknown,167,582,0.31098696461824954
+C001059,"Costa, Jim",Democrat,California,House of Representatives,Unknown,113,113,0.21042830540037244
+M001244,"Moody, Ashley",Republican,Florida,Senate,Unknown,0,0,0.0
+W000812,"Wagner, Ann",Republican,Missouri,House of Representatives,Unknown,156,273,0.29050279329608936
+R000619,"Rulli, Michael A.",Republican,Ohio,House of Representatives,Unknown,0,0,0.0
+J000312,"Justice, James C.",Republican,West Virginia,Senate,Unknown,0,0,0.0
+D000628,"Dunn, Neal P.",Republican,Florida,House of Representatives,Unknown,168,452,0.3128491620111732
+N000147,"Norton, Eleanor Holmes",Democrat,District of Columbia,House of Representatives,Unknown,155,383,0.2886405959031657
+D000216,"DeLauro, Rosa L.",Democrat,Connecticut,House of Representatives,Unknown,137,313,0.25512104283054005
+W000187,"Waters, Maxine",Democrat,California,House of Representatives,Unknown,137,213,0.25512104283054005
+P000197,"Pelosi, Nancy",Democrat,California,House of Representatives,Unknown,0,0,0.0
+V000139,"Van Epps, Matt",Republican,Tennessee,House of Representatives,Unknown,0,0,0.0
+G000606,"Grijalva, Adelita S.",Democrat,Arizona,House of Representatives,Unknown,0,0,0.0
+C001087,"Crawford, Eric A. ""Rick""",Republican,Arkansas,House of Representatives,Unknown,166,394,0.3091247672253259
+Y000064,"Young, Todd",Republican,Indiana,Senate,Unknown,21,21,0.03910614525139665
+W000779,"Wyden, Ron",Democrat,Oregon,Senate,Unknown,38,106,0.07076350093109869
+W000817,"Warren, Elizabeth",Democrat,Massachusetts,Senate,Unknown,39,115,0.07262569832402234
+W000802,"Whitehouse, Sheldon",Democrat,Rhode Island,Senate,Unknown,41,138,0.07635009310986965
+W000800,"Welch, Peter",Democrat,Vermont,Senate,Unknown,38,95,0.07076350093109869
+W000437,"Wicker, Roger F.",Republican,Mississippi,Senate,Unknown,36,123,0.0670391061452514
+W000790,"Warnock, Raphael G.",Democrat,Georgia,Senate,Unknown,42,102,0.0782122905027933
+T000278,"Tuberville, Tommy",Republican,Alabama,Senate,Unknown,37,49,0.06890130353817504
+W000805,"Warner, Mark R.",Democrat,Virginia,Senate,Unknown,38,82,0.07076350093109869
+V000128,"Van Hollen, Chris",Democrat,Maryland,Senate,Unknown,41,123,0.07635009310986965
+S001203,"Smith, Tina",Democrat,Minnesota,Senate,Unknown,42,113,0.0782122905027933
+T000476,"Tillis, Thomas",Republican,North Carolina,Senate,Unknown,42,80,0.0782122905027933
+S001198,"Sullivan, Dan",Republican,Alaska,Senate,Unknown,35,83,0.06517690875232775
+T000250,"Thune, John",Republican,South Dakota,Senate,Unknown,35,90,0.06517690875232775
+S001232,"Sheehy, Tim",Republican,Montana,Senate,Unknown,0,0,0.0
+S001217,"Scott, Rick",Republican,Florida,Senate,Unknown,42,185,0.0782122905027933
+S001208,"Slotkin, Elissa",Democrat,Michigan,Senate,Unknown,174,198,0.3240223463687151
+S001184,"Scott, Tim",Republican,South Carolina,Senate,Unknown,36,57,0.0670391061452514
+S001181,"Shaheen, Jeanne",Democrat,New Hampshire,Senate,Unknown,41,93,0.07635009310986965
+S001227,"Schmitt, Eric",Republican,Missouri,Senate,Unknown,30,41,0.055865921787709494
+R000605,"Rounds, Mike",Republican,South Dakota,Senate,Unknown,38,62,0.07076350093109869
+S001194,"Schatz, Brian",Democrat,Hawaii,Senate,Unknown,38,94,0.07076350093109869
+S000148,"Schumer, Charles E.",Democrat,New York,Senate,Unknown,38,75,0.07076350093109869
+S000033,"Sanders, Bernard",Independent,Vermont,Senate,Unknown,38,122,0.07076350093109869
+S001150,"Schiff, Adam B.",Democrat,California,Senate,Unknown,122,190,0.2271880819366853
+R000618,"Ricketts, Pete",Republican,Nebraska,Senate,Unknown,28,28,0.0521415270018622
+R000608,"Rosen, Jacky",Democrat,Nevada,Senate,Unknown,38,86,0.07076350093109869
+P000603,"Paul, Rand",Republican,Kentucky,Senate,Unknown,35,53,0.06517690875232775
+P000595,"Peters, Gary C.",Democrat,Michigan,Senate,Unknown,38,75,0.07076350093109869
+R000584,"Risch, James E.",Republican,Idaho,Senate,Unknown,36,124,0.0670391061452514
+R000122,"Reed, Jack",Democrat,Rhode Island,Senate,Unknown,38,105,0.07076350093109869
+P000145,"Padilla, Alex",Democrat,California,Senate,Unknown,41,138,0.07635009310986965
+O000174,"Ossoff, Jon",Democrat,Georgia,Senate,Unknown,41,78,0.07635009310986965
+M001190,"Mullin, Markwayne",Republican,Oklahoma,Senate,Unknown,35,96,0.06517690875232775
+M001169,"Murphy, Christopher",Democrat,Connecticut,Senate,Unknown,38,98,0.07076350093109869
+M001111,"Murray, Patty",Democrat,Washington,Senate,Unknown,38,131,0.07076350093109869
+M001153,"Murkowski, Lisa",Republican,Alaska,Senate,Unknown,18,18,0.0335195530726257
+M001243,"McCormick, David",Republican,Pennsylvania,Senate,Unknown,0,0,0.0
+M001242,"Moreno, Bernie",Republican,Ohio,Senate,Unknown,0,0,0.0
+M001176,"Merkley, Jeff",Democrat,Oregon,Senate,Unknown,41,140,0.07635009310986965
+M000934,"Moran, Jerry",Republican,Kansas,Senate,Unknown,45,102,0.08379888268156424
+M000355,"McConnell, Mitch",Republican,Kentucky,Senate,Unknown,0,0,0.0
+M001198,"Marshall, Roger",Republican,Kansas,Senate,Unknown,43,147,0.08007448789571694
+K000367,"Klobuchar, Amy",Democrat,Minnesota,Senate,Unknown,41,137,0.07635009310986965
+L000577,"Lee, Mike",Republican,Utah,Senate,Unknown,43,133,0.08007448789571694
+L000575,"Lankford, James",Republican,Oklahoma,Senate,Unknown,44,180,0.08193668528864059
+L000571,"Lummis, Cynthia M.",Republican,Wyoming,Senate,Unknown,48,126,0.0893854748603352
+L000570,"Luján, Ben Ray",Democrat,New Mexico,Senate,Unknown,42,82,0.0782122905027933
+M000133,"Markey, Edward J.",Democrat,Massachusetts,Senate,Unknown,38,109,0.07076350093109869
+K000377,"Kelly, Mark",Democrat,Arizona,Senate,Unknown,3,3,0.00558659217877095
+K000394,"Kim, Andy",Democrat,New Jersey,Senate,Unknown,137,213,0.25512104283054005
+K000393,"Kennedy, John",Republican,Louisiana,Senate,Unknown,30,32,0.055865921787709494
+K000383,"King, Angus S., Jr.",Independent,Maine,Senate,Unknown,14,14,0.0260707635009311
+K000384,"Kaine, Tim",Democrat,Virginia,Senate,Unknown,38,125,0.07076350093109869
+J000293,"Johnson, Ron",Republican,Wisconsin,Senate,Unknown,33,52,0.061452513966480445
+H001104,"Husted, Jon",Republican,Ohio,Senate,Unknown,0,0,0.0
+H000273,"Hickenlooper, John W.",Democrat,Colorado,Senate,Unknown,38,75,0.07076350093109869
+H001089,"Hawley, Josh",Republican,Missouri,Senate,Unknown,38,118,0.07076350093109869
+H001079,"Hyde-Smith, Cindy",Republican,Mississippi,Senate,Unknown,38,154,0.07076350093109869
+H001061,"Hoeven, John",Republican,North Dakota,Senate,Unknown,47,189,0.08752327746741155
+H001042,"Hirono, Mazie K.",Democrat,Hawaii,Senate,Unknown,38,114,0.07076350093109869
+H001046,"Heinrich, Martin",Democrat,New Mexico,Senate,Unknown,47,61,0.08752327746741155
+H000601,"Hagerty, Bill",Republican,Tennessee,Senate,Unknown,42,109,0.0782122905027933
+H001076,"Hassan, Margaret Wood",Democrat,New Hampshire,Senate,Unknown,41,90,0.07635009310986965
+G000574,"Gallego, Ruben",Democrat,Arizona,Senate,Unknown,0,0,0.0
+G000555,"Gillibrand, Kirsten E.",Democrat,New York,Senate,Unknown,42,132,0.0782122905027933
+G000386,"Grassley, Chuck",Republican,Iowa,Senate,Unknown,28,28,0.0521415270018622
+G000359,"Graham, Lindsey",Republican,South Carolina,Senate,Unknown,35,46,0.06517690875232775
+F000479,"Fetterman, John",Democrat,Pennsylvania,Senate,Unknown,38,82,0.07076350093109869
+C001114,"Curtis, John R.",Republican,Utah,Senate,Unknown,165,332,0.30726256983240224
+E000295,"Ernst, Joni",Republican,Iowa,Senate,Unknown,42,109,0.0782122905027933
+F000463,"Fischer, Deb",Republican,Nebraska,Senate,Unknown,35,101,0.06517690875232775
+C001098,"Cruz, Ted",Republican,Texas,Senate,Unknown,42,185,0.0782122905027933
+D000618,"Daines, Steve",Republican,Montana,Senate,Unknown,38,141,0.07076350093109869
+D000622,"Duckworth, Tammy",Democrat,Illinois,Senate,Unknown,39,115,0.07262569832402234
+D000563,"Durbin, Richard J.",Democrat,Illinois,Senate,Unknown,38,118,0.07076350093109869
+C001113,"Cortez Masto, Catherine",Democrat,Nevada,Senate,Unknown,38,93,0.07076350093109869
+C001096,"Cramer, Kevin",Republican,North Dakota,Senate,Unknown,47,194,0.08752327746741155
+C001095,"Cotton, Tom",Republican,Arkansas,Senate,Unknown,42,150,0.0782122905027933
+C001088,"Coons, Christopher A.",Democrat,Delaware,Senate,Unknown,45,137,0.08379888268156424
+C001035,"Collins, Susan M.",Republican,Maine,Senate,Unknown,33,34,0.061452513966480445
+C001056,"Cornyn, John",Republican,Texas,Senate,Unknown,33,46,0.061452513966480445
+C000880,"Crapo, Mike",Republican,Idaho,Senate,Unknown,35,89,0.06517690875232775
+B001319,"Britt, Katie Boyd",Republican,Alabama,Senate,Unknown,42,97,0.0782122905027933
+B001305,"Budd, Ted",Republican,North Carolina,Senate,Unknown,41,94,0.07635009310986965
+B001288,"Booker, Cory A.",Democrat,New Jersey,Senate,Unknown,42,129,0.0782122905027933
+C001075,"Cassidy, Bill",Republican,Louisiana,Senate,Unknown,34,66,0.0633147113594041
+B001236,"Boozman, John",Republican,Arkansas,Senate,Unknown,50,111,0.0931098696461825
+C001047,"Capito, Shelley Moore",Republican,West Virginia,Senate,Unknown,48,82,0.0893854748603352
+C000127,"Cantwell, Maria",Democrat,Washington,Senate,Unknown,38,83,0.07076350093109869
+B001299,"Banks, Jim",Republican,Indiana,Senate,Unknown,161,399,0.29981378026070765
+B001303,"Blunt Rochester, Lisa",Democrat,Delaware,Senate,Unknown,137,213,0.25512104283054005
+B001277,"Blumenthal, Richard",Democrat,Connecticut,Senate,Unknown,38,135,0.07076350093109869
+B001261,"Barrasso, John",Republican,Wyoming,Senate,Unknown,42,114,0.0782122905027933
+B001267,"Bennet, Michael F.",Democrat,Colorado,Senate,Unknown,38,86,0.07076350093109869
+B001230,"Baldwin, Tammy",Democrat,Wisconsin,Senate,Unknown,38,106,0.07076350093109869
+B001243,"Blackburn, Marsha",Republican,Tennessee,Senate,Unknown,43,158,0.08007448789571694
+A000382,"Alsobrooks, Angela D.",Democrat,Maryland,Senate,Unknown,0,0,0.0
+W000830,"Whitesides, George",Democrat,California,House of Representatives,Unknown,0,0,0.0
+F000484,"Fine, Randy",Republican,Florida,House of Representatives,Unknown,0,0,0.0
+P000622,"Patronis, Jimmy",Republican,Florida,House of Representatives,Unknown,0,0,0.0
+V000138,"Vindman, Eugene Simon",Democrat,Virginia,House of Representatives,Unknown,0,0,0.0
+T000490,"Taylor, David J.",Republican,Ohio,House of Representatives,Unknown,0,0,0.0
+S001230,"Subramanyam, Suhas",Democrat,Virginia,House of Representatives,Unknown,0,0,0.0
+S001229,"Shreve, Jefferson",Republican,Indiana,House of Representatives,Unknown,0,0,0.0
+S001228,"Schmidt, Derek",Republican,Kansas,House of Representatives,Unknown,0,0,0.0
+R000622,"Riley, Josh",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+P000621,"Pou, Nellie",Democrat,New Jersey,House of Representatives,Unknown,0,0,0.0
+O000176,"Olszewski, Johnny",Democrat,Maryland,House of Representatives,Unknown,0,0,0.0
+M001240,"McDowell, Addison P.",Republican,North Carolina,House of Representatives,Unknown,0,0,0.0
+M001239,"McGuire, John J.",Republican,Virginia,House of Representatives,Unknown,0,0,0.0
+M001237,"McDonald Rivet, Kristen",Democrat,Michigan,House of Representatives,Unknown,0,0,0.0
+M001236,"Moore, Tim",Republican,North Carolina,House of Representatives,Unknown,0,0,0.0
+M001235,"Moore, Riley M.",Republican,West Virginia,House of Representatives,Unknown,0,0,0.0
+M001233,"Messmer, Mark B.",Republican,Indiana,House of Representatives,Unknown,0,0,0.0
+M001232,"McClain Delaney, April",Democrat,Maryland,House of Representatives,Unknown,0,0,0.0
+M001231,"Mannion, John W.",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+M001230,"Mackenzie, Ryan",Republican,Pennsylvania,House of Representatives,Unknown,0,0,0.0
+L000606,"Latimer, George",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+K000405,"Knott, Brad",Republican,North Carolina,House of Representatives,Unknown,0,0,0.0
+K000403,"Kennedy, Mike",Republican,Utah,House of Representatives,Unknown,0,0,0.0
+J000310,"Johnson, Julie",Democrat,Texas,House of Representatives,Unknown,0,0,0.0
+H001103,"Hernández, Pablo Jose",Democrat,Puerto Rico,House of Representatives,Unknown,0,0,0.0
+H001102,"Harris, Mark",Republican,North Carolina,House of Representatives,Unknown,0,0,0.0
+H001101,"Harrigan, Pat",Republican,North Carolina,House of Representatives,Unknown,0,0,0.0
+G000604,"Goodlander, Maggie",Democrat,New Hampshire,House of Representatives,Unknown,0,0,0.0
+G000603,"Gill, Brandon",Republican,Texas,House of Representatives,Unknown,0,0,0.0
+G000602,"Gillen, Laura",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+G000601,"Goldman, Craig A.",Republican,Texas,House of Representatives,Unknown,0,0,0.0
+F000483,"Friedman, Laura",Democrat,California,House of Representatives,Unknown,0,0,0.0
+F000482,"Fedorchak, Julie",Republican,North Dakota,House of Representatives,Unknown,0,0,0.0
+E000301,"Elfreth, Sarah",Democrat,Maryland,House of Representatives,Unknown,0,0,0.0
+D000635,"Dexter, Maxine",Democrat,Oregon,House of Representatives,Unknown,0,0,0.0
+D000634,"Downing, Troy",Republican,Montana,House of Representatives,Unknown,0,0,0.0
+C001136,"Conaway, Herbert C.",Democrat,New Jersey,House of Representatives,Unknown,0,0,0.0
+B001327,"Bresnahan, Robert P.",Republican,Pennsylvania,House of Representatives,Unknown,0,0,0.0
+B001326,"Bynum, Janelle S.",Democrat,Oregon,House of Representatives,Unknown,0,0,0.0
+B001325,"Biggs, Sheri",Republican,South Carolina,House of Representatives,Unknown,0,0,0.0
+B001322,"Baumgartner, Michael",Republican,Washington,House of Representatives,Unknown,0,0,0.0
+B001321,"Barrett, Tom",Republican,Michigan,House of Representatives,Unknown,0,0,0.0
+M001218,"McCormick, Richard",Republican,Georgia,House of Representatives,Unknown,101,113,0.18808193668528864
+S001188,"Stutzman, Marlin A.",Republican,Indiana,House of Representatives,Unknown,0,0,0.0
+F000110,"Fields, Cleo",Democrat,Louisiana,House of Representatives,Unknown,0,0,0.0
+O000177,"Onder, Robert F.",Republican,Missouri,House of Representatives,Unknown,0,0,0.0
+M001238,"McBride, Sarah",Democrat,Delaware,House of Representatives,Unknown,0,0,0.0
+M001234,"Morrison, Kelly",Democrat,Minnesota,House of Representatives,Unknown,0,0,0.0
+K000404,"King-Hinds, Kimberlyn",Republican,Northern Mariana Islands,House of Representatives,Unknown,0,0,0.0
+J000311,"Jack, Brian",Republican,Georgia,House of Representatives,Unknown,0,0,0.0
+H001099,"Haridopolos, Mike",Republican,Florida,House of Representatives,Unknown,0,0,0.0
+F000481,"Figures, Shomari",Democrat,Alabama,House of Representatives,Unknown,0,0,0.0
+E000300,"Evans, Gabe",Republican,Colorado,House of Representatives,Unknown,0,0,0.0
+C001137,"Crank, Jeff",Republican,Colorado,House of Representatives,Unknown,0,0,0.0
+B001324,"Bell, Wesley",Democrat,Missouri,House of Representatives,Unknown,0,0,0.0
+W000829,"Wied, Tony",Republican,Wisconsin,House of Representatives,Unknown,0,0,0.0
+M001229,"McIver, LaMonica",Democrat,New Jersey,House of Representatives,Unknown,0,0,0.0
+F000480,"Fong, Vince",Republican,California,House of Representatives,Unknown,7,7,0.01303538175046555
+K000402,"Kennedy, Timothy M.",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+M001228,"Maloy, Celeste",Republican,Utah,House of Representatives,Unknown,0,0,0.0
+A000380,"Amo, Gabe",Democrat,Rhode Island,House of Representatives,Unknown,53,53,0.09869646182495344
+M001227,"McClellan, Jennifer L.",Democrat,Virginia,House of Representatives,Unknown,113,113,0.21042830540037244
+V000135,"Van Orden, Derrick",Republican,Wisconsin,House of Representatives,Unknown,30,30,0.055865921787709494
+S001224,"Self, Keith",Republican,Texas,House of Representatives,Unknown,162,446,0.3016759776536313
+G000600,"Perez, Marie Gluesenkamp",Democrat,Washington,House of Representatives,Unknown,53,53,0.09869646182495344
+O000175,"Ogles, Andrew",Republican,Tennessee,House of Representatives,Unknown,170,544,0.3165735567970205
+M001224,"Moran, Nathaniel",Republican,Texas,House of Representatives,Unknown,162,206,0.3016759776536313
+M001223,"Magaziner, Seth",Democrat,Rhode Island,House of Representatives,Unknown,0,0,0.0
+L000603,"Luttrell, Morgan",Republican,Texas,House of Representatives,Unknown,185,516,0.34450651769087526
+L000602,"Lee, Summer L.",Democrat,Pennsylvania,House of Representatives,Unknown,137,268,0.25512104283054005
+K000399,"Kiggans, Jennifer A.",Republican,Virginia,House of Representatives,Unknown,0,0,0.0
+H001095,"Hunt, Wesley",Republican,Texas,House of Representatives,Unknown,156,240,0.29050279329608936
+H001096,"Hageman, Harriet M.",Republican,Wyoming,House of Representatives,Unknown,181,382,0.3370577281191806
+F000478,"Fry, Russell",Republican,South Carolina,House of Representatives,Unknown,163,338,0.30353817504655495
+D000530,"Deluzio, Christopher R.",Democrat,Pennsylvania,House of Representatives,Unknown,105,155,0.19553072625698323
+D000594,"De La Cruz, Monica",Republican,Texas,House of Representatives,Unknown,192,569,0.3575418994413408
+C001130,"Crockett, Jasmine",Democrat,Texas,House of Representatives,Unknown,156,372,0.29050279329608936
+C001131,"Casar, Greg",Democrat,Texas,House of Representatives,Unknown,156,372,0.29050279329608936
+B001318,"Balint, Becca",Democrat,Vermont,House of Representatives,Unknown,137,213,0.25512104283054005
+M001212,"Moore, Barry",Republican,Alabama,House of Representatives,Unknown,186,454,0.3463687150837989
+F000472,"Franklin, Scott",Republican,Florida,House of Representatives,Unknown,158,311,0.2942271880819367
+B000825,"Boebert, Lauren",Republican,Colorado,House of Representatives,Unknown,179,507,0.3333333333333333
+M001205,"Miller, Carol D.",Republican,West Virginia,House of Representatives,Unknown,165,386,0.30726256983240224
+M001208,"McBath, Lucy",Democrat,Georgia,House of Representatives,Unknown,35,35,0.06517690875232775
+C001123,"Cisneros, Gilbert Ray",Democrat,California,House of Representatives,Unknown,0,0,0.0
+S001205,"Scanlon, Mary Gay",Democrat,Pennsylvania,House of Representatives,Unknown,138,222,0.2569832402234637
+G000581,"Gonzalez, Vicente",Democrat,Texas,House of Representatives,Unknown,124,159,0.2309124767225326
+S001201,"Suozzi, Thomas R.",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+G000553,"Green, Al",Democrat,Texas,House of Representatives,Unknown,160,279,0.297951582867784
+D000399,"Doggett, Lloyd",Democrat,Texas,House of Representatives,Unknown,156,372,0.29050279329608936
+V000136,"Vasquez, Gabe",Democrat,New Mexico,House of Representatives,Unknown,0,0,0.0
+T000487,"Tokuda, Jill N.",Democrat,Hawaii,House of Representatives,Unknown,138,222,0.2569832402234637
+T000488,"Thanedar, Shri",Democrat,Michigan,House of Representatives,Unknown,113,113,0.21042830540037244
+S001223,"Sykes, Emilia Strong",Democrat,Ohio,House of Representatives,Unknown,0,0,0.0
+S001225,"Sorensen, Eric",Democrat,Illinois,House of Representatives,Unknown,0,0,0.0
+S001221,"Scholten, Hillary J.",Democrat,Michigan,House of Representatives,Unknown,6,6,0.0111731843575419
+S001226,"Salinas, Andrea",Democrat,Oregon,House of Representatives,Unknown,108,200,0.2011173184357542
+R000617,"Ramirez, Delia C.",Democrat,Illinois,House of Representatives,Unknown,108,200,0.2011173184357542
+N000193,"Nunn, Zachary",Republican,Iowa,House of Representatives,Unknown,0,0,0.0
+M001219,"Moylan, James C.",Republican,Guam,House of Representatives,Unknown,157,218,0.29236499068901306
+M001217,"Moskowitz, Jared",Democrat,Florida,House of Representatives,Unknown,35,35,0.06517690875232775
+M001216,"Mills, Cory",Republican,Florida,House of Representatives,Unknown,129,129,0.24022346368715083
+M001222,"Miller, Max L.",Republican,Ohio,House of Representatives,Unknown,129,129,0.24022346368715083
+M001226,"Menendez, Robert",Democrat,New Jersey,House of Representatives,Unknown,0,0,0.0
+M001220,"McGarvey, Morgan",Democrat,Kentucky,House of Representatives,Unknown,113,113,0.21042830540037244
+L000596,"Luna, Anna Paulina",Republican,Florida,House of Representatives,Unknown,171,522,0.31843575418994413
+L000597,"Lee, Laurel M.",Republican,Florida,House of Representatives,Unknown,145,194,0.27001862197392923
+L000599,"Lawler, Michael",Republican,New York,House of Representatives,Unknown,74,81,0.1378026070763501
+L000600,"Langworthy, Nicholas A.",Republican,New York,House of Representatives,Unknown,160,378,0.297951582867784
+L000601,"Landsman, Greg",Democrat,Ohio,House of Representatives,Unknown,137,213,0.25512104283054005
+L000598,"LaLota, Nick",Republican,New York,House of Representatives,Unknown,95,115,0.17690875232774675
+K000398,"Kean, Thomas H.",Republican,New Jersey,House of Representatives,Unknown,121,157,0.22532588454376165
+J000307,"James, John",Republican,Michigan,House of Representatives,Unknown,0,0,0.0
+J000309,"Jackson, Jonathan L.",Democrat,Illinois,House of Representatives,Unknown,113,113,0.21042830540037244
+I000058,"Ivey, Glenn",Democrat,Maryland,House of Representatives,Unknown,113,113,0.21042830540037244
+H001094,"Hoyle, Val T.",Democrat,Oregon,House of Representatives,Unknown,108,200,0.2011173184357542
+H001093,"Houchin, Erin",Republican,Indiana,House of Representatives,Unknown,164,324,0.3054003724394786
+G000599,"Goldman, Daniel S.",Democrat,New York,House of Representatives,Unknown,137,268,0.25512104283054005
+F000476,"Frost, Maxwell",Democrat,Florida,House of Representatives,Unknown,137,268,0.25512104283054005
+F000477,"Foushee, Valerie P.",Democrat,North Carolina,House of Representatives,Unknown,124,148,0.2309124767225326
+E000235,"Ezell, Mike",Republican,Mississippi,House of Representatives,Unknown,168,470,0.3128491620111732
+E000246,"Edwards, Chuck",Republican,North Carolina,House of Representatives,Unknown,183,388,0.3407821229050279
+D000230,"Davis, Donald G.",Democrat,North Carolina,House of Representatives,Unknown,85,88,0.15828677839851024
+C001129,"Collins, Mike",Republican,Georgia,House of Representatives,Unknown,161,389,0.29981378026070765
+B001316,"Burlison, Eric",Republican,Missouri,House of Representatives,Unknown,158,355,0.2942271880819367
+B001315,"Budzinski, Nikki",Democrat,Illinois,House of Representatives,Unknown,26,26,0.048417132216014895
+B001317,"Brecheen, Josh",Republican,Oklahoma,House of Representatives,Unknown,147,312,0.2737430167597765
+A000379,"Alford, Mark",Republican,Missouri,House of Representatives,Unknown,156,273,0.29050279329608936
+R000579,"Ryan, Patrick",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+M001215,"Miller-Meeks, Mariannette",Republican,Iowa,House of Representatives,Unknown,181,320,0.3370577281191806
+M001136,"McClain, Lisa C.",Republican,Michigan,House of Representatives,Unknown,159,346,0.29608938547486036
+H001091,"Hinson, Ashley",Republican,Iowa,House of Representatives,Unknown,180,386,0.33519553072625696
+G000593,"Gimenez, Carlos A.",Republican,Florida,House of Representatives,Unknown,157,224,0.29236499068901306
+T000481,"Tlaib, Rashida",Democrat,Michigan,House of Representatives,Unknown,179,321,0.3333333333333333
+T000478,"Tenney, Claudia",Republican,New York,House of Representatives,Unknown,187,427,0.34823091247672255
+M001199,"Mast, Brian J.",Republican,Florida,House of Representatives,Unknown,184,541,0.34264432029795155
+R000609,"Rutherford, John H.",Republican,Florida,House of Representatives,Unknown,167,471,0.31098696461824954
+L000585,"LaHood, Darin",Republican,Illinois,House of Representatives,Unknown,189,576,0.35195530726256985
+Z000018,"Zinke, Ryan K.",Republican,Montana,House of Representatives,Unknown,161,362,0.29981378026070765
+D000624,"Dingell, Debbie",Democrat,Michigan,House of Representatives,Unknown,137,313,0.25512104283054005
+M001194,"Moolenaar, John R.",Republican,Michigan,House of Representatives,Unknown,165,488,0.30726256983240224
+H001067,"Hudson, Richard",Republican,North Carolina,House of Representatives,Unknown,191,603,0.35567970204841715
+F000462,"Frankel, Lois",Democrat,Florida,House of Representatives,Unknown,43,44,0.08007448789571694
+H001058,"Huizenga, Bill",Republican,Michigan,House of Representatives,Unknown,159,338,0.29608938547486036
+W000798,"Walberg, Tim",Republican,Michigan,House of Representatives,Unknown,160,372,0.297951582867784
+N000002,"Nadler, Jerrold",Democrat,New York,House of Representatives,Unknown,156,346,0.29050279329608936
+W000797,"Wasserman Schultz, Debbie",Democrat,Florida,House of Representatives,Unknown,110,135,0.2048417132216015
+D000600,"Diaz-Balart, Mario",Republican,Florida,House of Representatives,Unknown,51,51,0.09497206703910614
+S001220,"Strong, Dale W.",Republican,Alabama,House of Representatives,Unknown,157,295,0.29236499068901306
+P000620,"Pettersen, Brittany",Democrat,Colorado,House of Representatives,Unknown,0,0,0.0
+M001225,"Mullin, Kevin",Democrat,California,House of Representatives,Unknown,0,0,0.0
+K000401,"Kiley, Kevin",Republican,California,House of Representatives,Unknown,60,66,0.11173184357541899
+K000400,"Kamlager-Dove, Sydney",Democrat,California,House of Representatives,Unknown,113,113,0.21042830540037244
+G000598,"Garcia, Robert",Democrat,California,House of Representatives,Unknown,0,0,0.0
+C001132,"Crane, Elijah",Republican,Arizona,House of Representatives,Unknown,161,408,0.29981378026070765
+C001133,"Ciscomani, Juan",Republican,Arizona,House of Representatives,Unknown,151,174,0.2811918063314711
+B001314,"Bean, Aaron",Republican,Florida,House of Representatives,Unknown,156,273,0.29050279329608936
+Y000067,"Yakym, Rudy",Republican,Indiana,House of Representatives,Unknown,166,400,0.3091247672253259
+F000475,"Finstad, Brad",Republican,Minnesota,House of Representatives,Unknown,190,503,0.3538175046554935
+F000474,"Flood, Mike",Republican,Nebraska,House of Representatives,Unknown,174,295,0.3240223463687151
+C001127,"Cherfilus-McCormick, Sheila",Democrat,Florida,House of Representatives,Unknown,142,348,0.2644320297951583
+C001126,"Carey, Mike",Republican,Ohio,House of Representatives,Unknown,163,316,0.30353817504655495
+B001313,"Brown, Shontel M.",Democrat,Ohio,House of Representatives,Unknown,113,113,0.21042830540037244
+E000071,"Ellzey, Jake",Republican,Texas,House of Representatives,Unknown,174,384,0.3240223463687151
+S001218,"Stansbury, Melanie A.",Democrat,New Mexico,House of Representatives,Unknown,100,100,0.186219739292365
+C001125,"Carter, Troy A.",Democrat,Louisiana,House of Representatives,Unknown,137,313,0.25512104283054005
+L000595,"Letlow, Julia",Republican,Louisiana,House of Representatives,Unknown,179,326,0.3333333333333333
+O000019,"Obernolte, Jay",Republican,California,House of Representatives,Unknown,183,289,0.3407821229050279
+K000397,"Kim, Young",Republican,California,House of Representatives,Unknown,33,33,0.061452513966480445
+V000134,"Van Duyne, Beth",Republican,Texas,House of Representatives,Unknown,180,480,0.33519553072625696
+S001159,"Strickland, Marilyn",Democrat,Washington,House of Representatives,Unknown,113,113,0.21042830540037244
+O000086,"Owens, Burgess",Republican,Utah,House of Representatives,Unknown,190,448,0.3538175046554935
+N000026,"Nehls, Troy E.",Republican,Texas,House of Representatives,Unknown,170,361,0.3165735567970205
+M001213,"Moore, Blake D.",Republican,Utah,House of Representatives,Unknown,161,333,0.29981378026070765
+J000305,"Jacobs, Sara",Democrat,California,House of Representatives,Unknown,124,158,0.2309124767225326
+J000304,"Jackson, Ronny",Republican,Texas,House of Representatives,Unknown,175,524,0.3258845437616387
+G000594,"Gonzales, Tony",Republican,Texas,House of Representatives,Unknown,194,420,0.3612662942271881
+F000471,"Fitzgerald, Scott",Republican,Wisconsin,House of Representatives,Unknown,184,483,0.34264432029795155
+H001090,"Harder, Josh",Democrat,California,House of Representatives,Unknown,0,0,0.0
+S001211,"Stanton, Greg",Democrat,Arizona,House of Representatives,Unknown,0,0,0.0
+P000613,"Panetta, Jimmy",Democrat,California,House of Representatives,Unknown,113,113,0.21042830540037244
+L000582,"Lieu, Ted",Democrat,California,House of Representatives,Unknown,138,222,0.2569832402234637
+A000371,"Aguilar, Pete",Democrat,California,House of Representatives,Unknown,0,0,0.0
+D000623,"DeSaulnier, Mark",Democrat,California,House of Representatives,Unknown,183,356,0.3407821229050279
+P000608,"Peters, Scott H.",Democrat,California,House of Representatives,Unknown,30,30,0.055865921787709494
+V000130,"Vargas, Juan",Democrat,California,House of Representatives,Unknown,0,0,0.0
+T000472,"Takano, Mark",Democrat,California,House of Representatives,Unknown,137,258,0.25512104283054005
+R000599,"Ruiz, Raul",Democrat,California,House of Representatives,Unknown,100,100,0.186219739292365
+V000129,"Valadao, David G.",Republican,California,House of Representatives,Unknown,194,485,0.3612662942271881
+S001193,"Swalwell, Eric",Democrat,California,House of Representatives,Unknown,137,218,0.25512104283054005
+B001287,"Bera, Ami",Democrat,California,House of Representatives,Unknown,113,113,0.21042830540037244
+G000559,"Garamendi, John",Democrat,California,House of Representatives,Unknown,138,322,0.2569832402234637
+C001080,"Chu, Judy",Democrat,California,House of Representatives,Unknown,137,313,0.25512104283054005
+S001183,"Schweikert, David",Republican,Arizona,House of Representatives,Unknown,95,115,0.17690875232774675
+G000565,"Gosar, Paul A.",Republican,Arizona,House of Representatives,Unknown,193,653,0.35940409683426444
+M001177,"McClintock, Tom",Republican,California,House of Representatives,Unknown,168,416,0.3128491620111732
+M001163,"Matsui, Doris O.",Democrat,California,House of Representatives,Unknown,113,113,0.21042830540037244
+T000460,"Thompson, Mike",Democrat,California,House of Representatives,Unknown,103,145,0.19180633147113593
+S000344,"Sherman, Brad",Democrat,California,House of Representatives,Unknown,103,145,0.19180633147113593
+S000250,"Sessions, Pete",Republican,Texas,House of Representatives,Unknown,182,632,0.33891992551210426
+I000056,"Issa, Darrell",Republican,California,House of Representatives,Unknown,167,431,0.31098696461824954
+C000059,"Calvert, Ken",Republican,California,House of Representatives,Unknown,175,444,0.3258845437616387
+L000397,"Lofgren, Zoe",Democrat,California,House of Representatives,Unknown,157,166,0.29236499068901306
+W000788,"Williams, Nikema",Democrat,Georgia,House of Representatives,Unknown,142,348,0.2644320297951583
+T000486,"Torres, Ritchie",Democrat,New York,House of Representatives,Unknown,137,213,0.25512104283054005
+S000929,"Spartz, Victoria",Republican,Indiana,House of Representatives,Unknown,110,148,0.2048417132216015
+S000168,"Salazar, Maria Elvira",Republican,Florida,House of Representatives,Unknown,30,31,0.055865921787709494
+R000305,"Ross, Deborah K.",Democrat,North Carolina,House of Representatives,Unknown,110,135,0.2048417132216015
+P000048,"Pfluger, August",Republican,Texas,House of Representatives,Unknown,173,389,0.3221601489757914
+M001214,"Mrvan, Frank J.",Democrat,Indiana,House of Representatives,Unknown,0,0,0.0
+M001211,"Miller, Mary E.",Republican,Illinois,House of Representatives,Unknown,163,481,0.30353817504655495
+M000871,"Mann, Tracey",Republican,Kansas,House of Representatives,Unknown,165,254,0.30726256983240224
+M000317,"Malliotakis, Nicole",Republican,New York,House of Representatives,Unknown,119,171,0.22160148975791433
+M000194,"Mace, Nancy",Republican,South Carolina,House of Representatives,Unknown,165,306,0.30726256983240224
+L000273,"Leger Fernandez, Teresa",Democrat,New Mexico,House of Representatives,Unknown,137,213,0.25512104283054005
+H001086,"Harshbarger, Diana",Republican,Tennessee,House of Representatives,Unknown,176,679,0.32774674115456237
+G000597,"Garbarino, Andrew R.",Republican,New York,House of Representatives,Unknown,34,34,0.0633147113594041
+F000470,"Fischbach, Michelle",Republican,Minnesota,House of Representatives,Unknown,165,410,0.30726256983240224
+F000446,"Feenstra, Randy",Republican,Iowa,House of Representatives,Unknown,163,381,0.30353817504655495
+F000246,"Fallon, Pat",Republican,Texas,House of Representatives,Unknown,159,365,0.29608938547486036
+D000032,"Donalds, Byron",Republican,Florida,House of Representatives,Unknown,152,288,0.28305400372439476
+C001116,"Clyde, Andrew S.",Republican,Georgia,House of Representatives,Unknown,162,430,0.3016759776536313
+C001039,"Cammack, Kat",Republican,Florida,House of Representatives,Unknown,169,609,0.31471135940409684
+B000740,"Bice, Stephanie I.",Republican,Oklahoma,House of Representatives,Unknown,160,318,0.297951582867784
+B000668,"Bentz, Cliff",Republican,Oregon,House of Representatives,Unknown,30,38,0.055865921787709494
+A000148,"Auchincloss, Jake",Democrat,Massachusetts,House of Representatives,Unknown,0,0,0.0
+T000165,"Tiffany, Thomas P.",Republican,Wisconsin,House of Representatives,Unknown,171,492,0.31843575418994413
+M001210,"Murphy, Gregory F.",Republican,North Carolina,House of Representatives,Unknown,163,369,0.30353817504655495
+G000592,"Golden, Jared F.",Democrat,Maine,House of Representatives,Unknown,169,197,0.31471135940409684
+S001213,"Steil, Bryan",Republican,Wisconsin,House of Representatives,Unknown,144,144,0.2681564245810056
+S001216,"Schrier, Kim",Democrat,Washington,House of Representatives,Unknown,0,0,0.0
+G000587,"Garcia, Sylvia R.",Democrat,Texas,House of Representatives,Unknown,156,317,0.29050279329608936
+R000614,"Roy, Chip",Republican,Texas,House of Representatives,Unknown,102,183,0.18994413407821228
+E000299,"Escobar, Veronica",Democrat,Texas,House of Representatives,Unknown,128,214,0.2383612662942272
+F000468,"Fletcher, Lizzie",Democrat,Texas,House of Representatives,Unknown,148,217,0.2756052141527002
+G000589,"Gooden, Lance",Republican,Texas,House of Representatives,Unknown,178,430,0.33147113594040967
+R000612,"Rose, John W.",Republican,Tennessee,House of Representatives,Unknown,168,476,0.3128491620111732
+B001309,"Burchett, Tim",Republican,Tennessee,House of Representatives,Unknown,161,441,0.29981378026070765
+J000301,"Johnson, Dusty",Republican,South Dakota,House of Representatives,Unknown,162,372,0.3016759776536313
+T000480,"Timmons, William R.",Republican,South Carolina,House of Representatives,Unknown,167,514,0.31098696461824954
+R000610,"Reschenthaler, Guy",Republican,Pennsylvania,House of Representatives,Unknown,172,642,0.3202979515828678
+J000302,"Joyce, John",Republican,Pennsylvania,House of Representatives,Unknown,164,468,0.3054003724394786
+M001204,"Meuser, Daniel",Republican,Pennsylvania,House of Representatives,Unknown,156,273,0.29050279329608936
+H001085,"Houlahan, Chrissy",Democrat,Pennsylvania,House of Representatives,Unknown,53,53,0.09869646182495344
+D000631,"Dean, Madeleine",Democrat,Pennsylvania,House of Representatives,Unknown,137,213,0.25512104283054005
+V000133,"Van Drew, Jefferson",Republican,New Jersey,House of Representatives,Unknown,184,360,0.34264432029795155
+C001119,"Craig, Angie",Democrat,Minnesota,House of Representatives,Unknown,53,53,0.09869646182495344
+G000586,"García, Jesús G. ""Chuy""",Democrat,Illinois,House of Representatives,Unknown,150,284,0.27932960893854747
+S001199,"Smucker, Lloyd",Republican,Pennsylvania,House of Representatives,Unknown,165,419,0.30726256983240224
+E000296,"Evans, Dwight",Democrat,Pennsylvania,House of Representatives,Unknown,137,258,0.25512104283054005
+B001296,"Boyle, Brendan F.",Democrat,Pennsylvania,House of Representatives,Unknown,137,268,0.25512104283054005
+P000605,"Perry, Scott",Republican,Pennsylvania,House of Representatives,Unknown,172,598,0.3202979515828678
+K000376,"Kelly, Mike",Republican,Pennsylvania,House of Representatives,Unknown,169,414,0.31471135940409684
+T000467,"Thompson, Glenn",Republican,Pennsylvania,House of Representatives,Unknown,161,428,0.29981378026070765
+M000687,"Mfume, Kweisi",Democrat,Maryland,House of Representatives,Unknown,140,262,0.260707635009311
+W000831,"Walkinshaw, James R.",Democrat,Virginia,House of Representatives,Unknown,0,0,0.0
+O000172,"Ocasio-Cortez, Alexandria",Democrat,New York,House of Representatives,Unknown,108,200,0.2011173184357542
+L000590,"Lee, Susie",Democrat,Nevada,House of Representatives,Unknown,161,224,0.29981378026070765
+P000614,"Pappas, Chris",Democrat,New Hampshire,House of Representatives,Unknown,54,55,0.1005586592178771
+G000591,"Guest, Michael",Republican,Mississippi,House of Representatives,Unknown,169,500,0.31471135940409684
+S001212,"Stauber, Pete",Republican,Minnesota,House of Representatives,Unknown,167,529,0.31098696461824954
+O000173,"Omar, Ilhan",Democrat,Minnesota,House of Representatives,Unknown,137,213,0.25512104283054005
+S001215,"Stevens, Haley M.",Democrat,Michigan,House of Representatives,Unknown,113,113,0.21042830540037244
+P000617,"Pressley, Ayanna",Democrat,Massachusetts,House of Representatives,Unknown,137,313,0.25512104283054005
+T000482,"Trahan, Lori",Democrat,Massachusetts,House of Representatives,Unknown,137,213,0.25512104283054005
+D000629,"Davids, Sharice",Democrat,Kansas,House of Representatives,Unknown,26,26,0.048417132216014895
+B001307,"Baird, James R.",Republican,Indiana,House of Representatives,Unknown,188,447,0.3500931098696462
+U000040,"Underwood, Lauren",Democrat,Illinois,House of Representatives,Unknown,0,0,0.0
+C001117,"Casten, Sean",Democrat,Illinois,House of Representatives,Unknown,124,158,0.2309124767225326
+F000469,"Fulcher, Russ",Republican,Idaho,House of Representatives,Unknown,160,361,0.297951582867784
+S001214,"Steube, W. Gregory",Republican,Florida,House of Representatives,Unknown,185,484,0.34450651769087526
+H001081,"Hayes, Jahana",Democrat,Connecticut,House of Representatives,Unknown,137,258,0.25512104283054005
+C001121,"Crow, Jason",Democrat,Colorado,House of Representatives,Unknown,159,175,0.29608938547486036
+N000191,"Neguse, Joe",Democrat,Colorado,House of Representatives,Unknown,193,396,0.35940409683426444
+L000593,"Levin, Mike",Democrat,California,House of Representatives,Unknown,137,268,0.25512104283054005
+H001082,"Hern, Kevin",Republican,Oklahoma,House of Representatives,Unknown,168,507,0.3128491620111732
+M001206,"Morelle, Joseph D.",Democrat,New York,House of Representatives,Unknown,137,213,0.25512104283054005
+B001306,"Balderson, Troy",Republican,Ohio,House of Representatives,Unknown,166,415,0.3091247672253259
+C001115,"Cloud, Michael",Republican,Texas,House of Representatives,Unknown,161,478,0.29981378026070765
+G000585,"Gomez, Jimmy",Democrat,California,House of Representatives,Unknown,124,168,0.2309124767225326
+N000190,"Norman, Ralph",Republican,South Carolina,House of Representatives,Unknown,176,656,0.32774674115456237
+E000298,"Estes, Ron",Republican,Kansas,House of Representatives,Unknown,165,461,0.30726256983240224
+J000298,"Jayapal, Pramila",Democrat,Washington,House of Representatives,Unknown,137,313,0.25512104283054005
+A000375,"Arrington, Jodey C.",Republican,Texas,House of Representatives,Unknown,174,398,0.3240223463687151
+K000392,"Kustoff, David",Republican,Tennessee,House of Representatives,Unknown,157,364,0.29236499068901306
+F000466,"Fitzpatrick, Brian K.",Republican,Pennsylvania,House of Representatives,Unknown,96,120,0.1787709497206704
+E000297,"Espaillat, Adriano",Democrat,New York,House of Representatives,Unknown,137,313,0.25512104283054005
+G000583,"Gottheimer, Josh",Democrat,New Jersey,House of Representatives,Unknown,158,179,0.2942271880819367
+B001298,"Bacon, Don",Republican,Nebraska,House of Representatives,Unknown,172,360,0.3202979515828678
+B001301,"Bergman, Jack",Republican,Michigan,House of Representatives,Unknown,162,446,0.3016759776536313
+R000606,"Raskin, Jamie",Democrat,Maryland,House of Representatives,Unknown,110,135,0.2048417132216015
+J000299,"Johnson, Mike",Republican,Louisiana,House of Representatives,Unknown,189,502,0.35195530726256985
+H001077,"Higgins, Clay",Republican,Louisiana,House of Representatives,Unknown,165,398,0.30726256983240224
+K000391,"Krishnamoorthi, Raja",Democrat,Illinois,House of Representatives,Unknown,103,145,0.19180633147113593
+S001200,"Soto, Darren",Democrat,Florida,House of Representatives,Unknown,145,254,0.27001862197392923
+C001110,"Correa, J. Luis",Democrat,California,House of Representatives,Unknown,0,0,0.0
+B001300,"Barragán, Nanette Diaz",Democrat,California,House of Representatives,Unknown,173,312,0.3221601489757914
+C001112,"Carbajal, Salud O.",Democrat,California,House of Representatives,Unknown,81,83,0.15083798882681565
+H001066,"Horsford, Steven",Democrat,Nevada,House of Representatives,Unknown,113,113,0.21042830540037244
+S001190,"Schneider, Bradley Scott",Democrat,Illinois,House of Representatives,Unknown,0,0,0.0
+W000806,"Webster, Daniel",Republican,Florida,House of Representatives,Unknown,183,381,0.3407821229050279
+C001055,"Case, Ed",Democrat,Hawaii,House of Representatives,Unknown,116,117,0.21601489757914338
+M001241,"Min, Dave",Democrat,California,House of Representatives,Unknown,0,0,0.0
+H001100,"Hurd, Jeff",Republican,Colorado,House of Representatives,Unknown,0,0,0.0
+B001302,"Biggs, Andy",Republican,Arizona,House of Representatives,Unknown,168,653,0.3128491620111732
+K000389,"Khanna, Ro",Democrat,California,House of Representatives,Unknown,140,322,0.260707635009311
+C001108,"Comer, James",Republican,Kentucky,House of Representatives,Unknown,169,421,0.31471135940409684
+D000626,"Davidson, Warren",Republican,Ohio,House of Representatives,Unknown,160,394,0.297951582867784
+K000388,"Kelly, Trent",Republican,Mississippi,House of Representatives,Unknown,152,327,0.28305400372439476
+G000576,"Grothman, Glenn",Republican,Wisconsin,House of Representatives,Unknown,162,496,0.3016759776536313
+N000189,"Newhouse, Dan",Republican,Washington,House of Representatives,Unknown,189,433,0.35195530726256985
+P000610,"Plaskett, Stacey E.",Democrat,Virgin Islands,House of Representatives,Unknown,113,113,0.21042830540037244
+B001292,"Beyer, Donald S.",Democrat,Virginia,House of Representatives,Unknown,137,213,0.25512104283054005
+B001291,"Babin, Brian",Republican,Texas,House of Representatives,Unknown,173,445,0.3221601489757914
+S001196,"Stefanik, Elise M.",Republican,New York,House of Representatives,Unknown,165,364,0.30726256983240224
+W000822,"Watson Coleman, Bonnie",Democrat,New Jersey,House of Representatives,Unknown,137,258,0.25512104283054005
+R000603,"Rouzer, David",Republican,North Carolina,House of Representatives,Unknown,159,343,0.29608938547486036
+E000294,"Emmer, Tom",Republican,Minnesota,House of Representatives,Unknown,29,29,0.054003724394785846
+M001196,"Moulton, Seth",Democrat,Massachusetts,House of Representatives,Unknown,113,113,0.21042830540037244
+B001295,"Bost, Mike",Republican,Illinois,House of Representatives,Unknown,175,601,0.3258845437616387
+A000372,"Allen, Rick W.",Republican,Georgia,House of Representatives,Unknown,164,373,0.3054003724394786
+L000583,"Loudermilk, Barry",Republican,Georgia,House of Representatives,Unknown,142,209,0.2644320297951583
+C001103,"Carter, Earl L. ""Buddy""",Republican,Georgia,House of Representatives,Unknown,176,566,0.32774674115456237
+T000474,"Torres, Norma J.",Democrat,California,House of Representatives,Unknown,0,0,0.0
+W000821,"Westerman, Bruce",Republican,Arkansas,House of Representatives,Unknown,0,0,0.0
+H001072,"Hill, J. French",Republican,Arkansas,House of Representatives,Unknown,156,273,0.29050279329608936
+R000600,"Radewagen, Aumua Amata Coleman",Republican,American Samoa,House of Representatives,Unknown,53,53,0.09869646182495344
+P000609,"Palmer, Gary J.",Republican,Alabama,House of Representatives,Unknown,153,224,0.2849162011173184
+N000188,"Norcross, Donald",Democrat,New Jersey,House of Representatives,Unknown,100,100,0.186219739292365
+A000370,"Adams, Alma S.",Democrat,North Carolina,House of Representatives,Unknown,133,203,0.24767225325884543
+C001101,"Clark, Katherine M.",Democrat,Massachusetts,House of Representatives,Unknown,0,0,0.0
+S001195,"Smith, Jason",Republican,Missouri,House of Representatives,Unknown,144,144,0.2681564245810056
+B001282,"Barr, Andy",Republican,Kentucky,House of Representatives,Unknown,173,439,0.3221601489757914
+C001067,"Clarke, Yvette D.",Democrat,New York,House of Representatives,Unknown,113,113,0.21042830540037244
+T000469,"Tonko, Paul",Democrat,New York,House of Representatives,Unknown,108,200,0.2011173184357542
+K000385,"Kelly, Robin L.",Democrat,Illinois,House of Representatives,Unknown,113,113,0.21042830540037244
+M001137,"Meeks, Gregory W.",Democrat,New York,House of Representatives,Unknown,137,213,0.25512104283054005
+V000081,"Velázquez, Nydia M.",Democrat,New York,House of Representatives,Unknown,137,268,0.25512104283054005
+T000463,"Turner, Michael R.",Republican,Ohio,House of Representatives,Unknown,0,0,0.0
+T000491,"Tran, Derek",Democrat,California,House of Representatives,Unknown,0,0,0.0
+P000607,"Pocan, Mark",Democrat,Wisconsin,House of Representatives,Unknown,142,303,0.2644320297951583
+V000131,"Veasey, Marc A.",Democrat,Texas,House of Representatives,Unknown,130,259,0.24208566108007448
+W000816,"Williams, Roger",Republican,Texas,House of Representatives,Unknown,184,508,0.34264432029795155
+C001091,"Castro, Joaquin",Democrat,Texas,House of Representatives,Unknown,156,327,0.29050279329608936
+W000814,"Weber, Randy K. Sr.",Republican,Texas,House of Representatives,Unknown,182,649,0.33891992551210426
+J000295,"Joyce, David P.",Republican,Ohio,House of Representatives,Unknown,144,144,0.2681564245810056
+B001281,"Beatty, Joyce",Democrat,Ohio,House of Representatives,Unknown,137,213,0.25512104283054005
+J000294,"Jeffries, Hakeem S.",Democrat,New York,House of Representatives,Unknown,0,0,0.0
+M001188,"Meng, Grace",Democrat,New York,House of Representatives,Unknown,137,213,0.25512104283054005
+B001285,"Brownley, Julia",Democrat,California,House of Representatives,Unknown,124,173,0.2309124767225326
+H001068,"Huffman, Jared",Democrat,California,House of Representatives,Unknown,120,181,0.22346368715083798
+D000617,"DelBene, Suzan K.",Democrat,Washington,House of Representatives,Unknown,113,113,0.21042830540037244
+M001184,"Massie, Thomas",Republican,Kentucky,House of Representatives,Unknown,53,63,0.09869646182495344
+B001278,"Bonamici, Suzanne",Democrat,Oregon,House of Representatives,Unknown,150,239,0.27932960893854747
+A000369,"Amodei, Mark E.",Republican,Nevada,House of Representatives,Unknown,166,394,0.3091247672253259
+W000804,"Wittman, Robert J.",Republican,Virginia,House of Representatives,Unknown,162,360,0.3016759776536313
+G000568,"Griffith, H. Morgan",Republican,Virginia,House of Representatives,Unknown,112,158,0.2085661080074488
+D000616,"DesJarlais, Scott",Republican,Tennessee,House of Representatives,Unknown,129,129,0.24022346368715083
+F000459,"Fleischmann, Charles J. ""Chuck""",Republican,Tennessee,House of Representatives,Unknown,166,431,0.3091247672253259
+H001052,"Harris, Andy",Republican,Maryland,House of Representatives,Unknown,162,488,0.3016759776536313
+K000375,"Keating, William R.",Democrat,Massachusetts,House of Representatives,Unknown,124,168,0.2309124767225326
+S001189,"Scott, Austin",Republican,Georgia,House of Representatives,Unknown,161,419,0.29981378026070765
+W000808,"Wilson, Frederica S.",Democrat,Florida,House of Representatives,Unknown,145,309,0.27001862197392923
+W000809,"Womack, Steve",Republican,Arkansas,House of Representatives,Unknown,153,281,0.2849162011173184
+S001185,"Sewell, Terri A.",Democrat,Alabama,House of Representatives,Unknown,142,348,0.2644320297951583
+C001068,"Cohen, Steve",Democrat,Tennessee,House of Representatives,Unknown,183,406,0.3407821229050279
+J000289,"Jordan, Jim",Republican,Ohio,House of Representatives,Unknown,64,71,0.1191806331471136
+B001260,"Buchanan, Vern",Republican,Florida,House of Representatives,Unknown,188,337,0.3500931098696462
+C001066,"Castor, Kathy",Democrat,Florida,House of Representatives,Unknown,39,41,0.07262569832402234
+B001257,"Bilirakis, Gus M.",Republican,Florida,House of Representatives,Unknown,189,469,0.35195530726256985
+Q000023,"Quigley, Mike",Democrat,Illinois,House of Representatives,Unknown,130,139,0.24208566108007448
+T000468,"Titus, Dina",Democrat,Nevada,House of Representatives,Unknown,150,339,0.27932960893854747
+P000597,"Pingree, Chellie",Democrat,Maine,House of Representatives,Unknown,150,294,0.27932960893854747
+G000558,"Guthrie, Brett",Republican,Kentucky,House of Representatives,Unknown,170,550,0.3165735567970205
+H001047,"Himes, James A.",Democrat,Connecticut,House of Representatives,Unknown,0,0,0.0
+S001176,"Scalise, Steve",Republican,Louisiana,House of Representatives,Unknown,0,0,0.0
+F000454,"Foster, Bill",Democrat,Illinois,House of Representatives,Unknown,0,0,0.0
+C001072,"Carson, André",Democrat,Indiana,House of Representatives,Unknown,179,366,0.3333333333333333
+M000312,"McGovern, James P.",Democrat,Massachusetts,House of Representatives,Unknown,138,277,0.2569832402234637
+N000015,"Neal, Richard E.",Democrat,Massachusetts,House of Representatives,Unknown,0,0,0.0
+M001160,"Moore, Gwen",Democrat,Wisconsin,House of Representatives,Unknown,137,273,0.25512104283054005
+S001157,"Scott, David",Democrat,Georgia,House of Representatives,Unknown,142,248,0.2644320297951583
+S001156,"Sánchez, Linda T.",Democrat,California,House of Representatives,Unknown,137,268,0.25512104283054005
+L000562,"Lynch, Stephen F.",Democrat,Massachusetts,House of Representatives,Unknown,26,26,0.048417132216014895
+S001231,"Simon, Lateefah",Democrat,California,House of Representatives,Unknown,0,0,0.0
+R000621,"Randall, Emily",Democrat,Washington,House of Representatives,Unknown,0,0,0.0
+R000620,"Rivas, Luz M.",Democrat,California,House of Representatives,Unknown,0,0,0.0
+L000607,"Liccardo, Sam T.",Democrat,California,House of Representatives,Unknown,0,0,0.0
+H001098,"Hamadeh, Abraham J.",Republican,Arizona,House of Representatives,Unknown,0,0,0.0
+G000605,"Gray, Adam",Democrat,California,House of Representatives,Unknown,0,0,0.0
+B001323,"Begich, Nicholas J.",Republican,Alaska,House of Representatives,Unknown,0,0,0.0
+A000381,"Ansari, Yassamin",Democrat,Arizona,House of Representatives,Unknown,0,0,0.0
+S001172,"Smith, Adrian",Republican,Nebraska,House of Representatives,Unknown,163,369,0.30353817504655495
+J000288,"Johnson, Henry C. ""Hank""",Democrat,Georgia,House of Representatives,Unknown,142,348,0.2644320297951583
+C001069,"Courtney, Joe",Democrat,Connecticut,House of Representatives,Unknown,137,213,0.25512104283054005
+P000034,"Pallone, Frank",Democrat,New Jersey,House of Representatives,Unknown,113,113,0.21042830540037244
+S001148,"Simpson, Michael K.",Republican,Idaho,House of Representatives,Unknown,159,343,0.29608938547486036
+S001145,"Schakowsky, Janice D.",Democrat,Illinois,House of Representatives,Unknown,150,339,0.27932960893854747
+L000557,"Larson, John B.",Democrat,Connecticut,House of Representatives,Unknown,105,155,0.19553072625698323
+S000510,"Smith, Adam",Democrat,Washington,House of Representatives,Unknown,137,213,0.25512104283054005
+D000197,"DeGette, Diana",Democrat,Colorado,House of Representatives,Unknown,137,268,0.25512104283054005
+D000096,"Davis, Danny K.",Democrat,Illinois,House of Representatives,Unknown,124,173,0.2309124767225326
+A000055,"Aderholt, Robert B.",Republican,Alabama,House of Representatives,Unknown,169,418,0.31471135940409684
+T000193,"Thompson, Bennie G.",Democrat,Mississippi,House of Representatives,Unknown,124,148,0.2309124767225326
+S000522,"Smith, Christopher H.",Republican,New Jersey,House of Representatives,Unknown,125,157,0.23277467411545624
+S000185,"Scott, Robert C. ""Bobby""",Democrat,Virginia,House of Representatives,Unknown,0,0,0.0
+R000395,"Rogers, Harold",Republican,Kentucky,House of Representatives,Unknown,144,144,0.2681564245810056
+B000490,"Bishop, Sanford D.",Democrat,Georgia,House of Representatives,Unknown,183,346,0.3407821229050279
+L000491,"Lucas, Frank D.",Republican,Oklahoma,House of Representatives,Unknown,144,144,0.2681564245810056
+C001063,"Cuellar, Henry",Democrat,Texas,House of Representatives,Unknown,156,272,0.29050279329608936
+M001157,"McCaul, Michael T.",Republican,Texas,House of Representatives,Unknown,58,61,0.10800744878957169
+F000450,"Foxx, Virginia",Republican,North Carolina,House of Representatives,Unknown,182,374,0.33891992551210426
+C001061,"Cleaver, Emanuel",Democrat,Missouri,House of Representatives,Unknown,142,293,0.2644320297951583
+C001051,"Carter, John R.",Republican,Texas,House of Representatives,Unknown,157,269,0.29236499068901306
+C001053,"Cole, Tom",Republican,Oklahoma,House of Representatives,Unknown,144,144,0.2681564245810056
+R000575,"Rogers, Mike D.",Republican,Alabama,House of Representatives,Unknown,144,180,0.2681564245810056
+W000795,"Wilson, Joe",Republican,South Carolina,House of Representatives,Unknown,164,390,0.3054003724394786
+L000560,"Larsen, Rick",Democrat,Washington,House of Representatives,Unknown,179,266,0.3333333333333333
+G000546,"Graves, Sam",Republican,Missouri,House of Representatives,Unknown,156,277,0.29050279329608936
+M001143,"McCollum, Betty",Democrat,Minnesota,House of Representatives,Unknown,137,213,0.25512104283054005
+C000537,"Clyburn, James E.",Democrat,South Carolina,House of Representatives,Unknown,124,148,0.2309124767225326
+K000009,"Kaptur, Marcy",Democrat,Ohio,House of Representatives,Unknown,103,145,0.19180633147113593
+H000874,"Hoyer, Steny H.",Democrat,Maryland,House of Representatives,Unknown,113,113,0.21042830540037244
